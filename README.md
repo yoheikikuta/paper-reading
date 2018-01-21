@@ -1,2 +1,2 @@
 # paper-reading
-Notes about papers I read (in Japanese)
+読んだ論文の内容に関して自分の理解のためのメモを残していくためのレポジトリです。
