@@ -1,8 +1,6 @@
 ## For taking a screenshot
 
-```
-$ screencloud
-```
+Use [imgur Community Extension](https://chrome.google.com/webstore/detail/imgur-community-extension/ehoopddfhgaehhmphfcooacjdpmbjlao) (google chrome extension).
 
 ## For pasting an image into a markdown
 
