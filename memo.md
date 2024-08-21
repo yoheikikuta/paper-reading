@@ -1,12 +1,11 @@
-## For taking a screenshot
+## How to store images
 
-Use [imgur Community Extension](https://chrome.google.com/webstore/detail/imgur-community-extension/ehoopddfhgaehhmphfcooacjdpmbjlao) (google chrome extension).  
-On pdf pages, need right click on the top bar area including the file name to use the extension.
+Use https://imgur.com/ as external image storage.
 
-## For pasting an image into a markdown
+## How to pastie an image into a markdown
 
 ```
 <p align="center">
-  <img src="">
+  <img src="" width=100%>
 </p>
 ```
